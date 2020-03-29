@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Diary01</string>
+    <string name="last_month_button">前月</string>
+    <string name="next_month_button">来月</string>
 </resources>
