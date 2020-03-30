@@ -2,4 +2,8 @@
     <string name="app_name">Diary01</string>
     <string name="last_month_button">前月</string>
     <string name="next_month_button">来月</string>
+    <string name="regist_button">登録</string>
+    <string name="update_button">編集</string>
+    <string name="delete_button">削除</string>
+    <string name="back_button">戻る</string>
 </resources>
